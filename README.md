@@ -117,6 +117,3 @@ An interactive Power BI dashboard was created with the following pages:
 3. Run the cells to view code, visualizations, and insights
 4. Open the Power BI `.pbix` file to interact with the dashboard
 5. You can also open `cleaned_online_retail.csv` and `rfm_segments.csv` directly in Power BI
-
-
-
